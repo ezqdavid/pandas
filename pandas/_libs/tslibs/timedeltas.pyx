@@ -124,6 +124,7 @@ cdef dict timedelta_abbrevs = {
     "min": "m",
     "minutes": "m",
     "t": "m",
+    "T": "m",
     "s": "s",
     "seconds": "s",
     "sec": "s",
