@@ -1593,7 +1593,7 @@ cdef class _Timedelta(timedelta):
 
     def as_unit(self, str unit, bint round_ok=True):
         """
-        Convert the underlying int64 representaton to the given unit.
+        Convert the underlying int64 representation to the given unit.
 
         Parameters
         ----------
